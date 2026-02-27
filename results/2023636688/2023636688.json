@@ -1,0 +1,34 @@
+[
+  [
+    {
+      "index": 0,
+      "label": "table",
+      "bbox_2d": [
+        95,
+        77,
+        911,
+        946
+      ],
+      "polygon": [
+        [
+          95,
+          77
+        ],
+        [
+          95,
+          945
+        ],
+        [
+          911,
+          945
+        ],
+        [
+          911,
+          77
+        ]
+      ],
+      "content": "<table class=\"table table-bordered\"><thead><tr><th>QUANTITY</th><th>U of M</th><th>DESCRIPTION</th><th>NOT TO EXCEED</th><th>UNIT PRICE</th><th>TOTAL PRICE</th></tr></thead><tbody><tr><td>2</td><td>EA</td><td>ZR623020; 2½ x 50 x 50 Sheet Zinconiä Ceramic Sheet</td><td></td><td></td><td>47800</td></tr><tr><td colspan=\"6\">Ship to: Alabama Research<br>152 metal samples Road<br>P.O. Box 739<br>Munford, AL 36268<br>Att: Mr. Tom Kochan</td></tr></tbody></table>",
+      "native_label": "table"
+    }
+  ]
+]

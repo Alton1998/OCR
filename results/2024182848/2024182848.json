@@ -1,0 +1,264 @@
+[
+  [
+    {
+      "index": 0,
+      "label": "text",
+      "bbox_2d": [
+        87,
+        151,
+        832,
+        371
+      ],
+      "polygon": [
+        [
+          87,
+          156
+        ],
+        [
+          92,
+          371
+        ],
+        [
+          826,
+          366
+        ],
+        [
+          831,
+          151
+        ]
+      ],
+      "content": "# HERE'S WHAT'S NOW BEING SAID ABOUT OTHER PEOPLE'S CIGARETTE SMOKE.",
+      "native_label": "doc_title"
+    },
+    {
+      "index": 1,
+      "label": "image",
+      "bbox_2d": [
+        92,
+        390,
+        837,
+        675
+      ],
+      "polygon": [
+        [
+          92,
+          395
+        ],
+        [
+          97,
+          675
+        ],
+        [
+          837,
+          675
+        ],
+        [
+          832,
+          390
+        ]
+      ],
+      "content": null,
+      "native_label": "image"
+    },
+    {
+      "index": 2,
+      "label": "text",
+      "bbox_2d": [
+        108,
+        685,
+        453,
+        774
+      ],
+      "polygon": [
+        [
+          108,
+          685
+        ],
+        [
+          108,
+          774
+        ],
+        [
+          448,
+          774
+        ],
+        [
+          453,
+          685
+        ]
+      ],
+      "content": "Several months ago, headlines around the world trumpeted alarming news. A Japanese study was claiming that non-smoking wives of smokers had a higher risk of lung cancer because of their husbands' tobacco smoke. That scared a lot of people and understandably so, if this claim was the last word.",
+      "native_label": "text"
+    },
+    {
+      "index": 3,
+      "label": "text",
+      "bbox_2d": [
+        108,
+        774,
+        441,
+        814
+      ],
+      "polygon": [
+        [
+          108,
+          774
+        ],
+        [
+          108,
+          814
+        ],
+        [
+          441,
+          814
+        ],
+        [
+          441,
+          774
+        ]
+      ],
+      "content": "But now new headlines have appeared. First because several apparent errors are reported to have been found in the Japanese study—raising",
+      "native_label": "text"
+    },
+    {
+      "index": 4,
+      "label": "text",
+      "bbox_2d": [
+        468,
+        685,
+        646,
+        698
+      ],
+      "polygon": [
+        [
+          468,
+          685
+        ],
+        [
+          468,
+          698
+        ],
+        [
+          646,
+          698
+        ],
+        [
+          646,
+          685
+        ]
+      ],
+      "content": "serious questions about it.",
+      "native_label": "text"
+    },
+    {
+      "index": 5,
+      "label": "text",
+      "bbox_2d": [
+        467,
+        697,
+        819,
+        773
+      ],
+      "polygon": [
+        [
+          818,
+          702
+        ],
+        [
+          814,
+          697
+        ],
+        [
+          467,
+          702
+        ],
+        [
+          467,
+          716
+        ],
+        [
+          467,
+          721
+        ],
+        [
+          467,
+          725
+        ],
+        [
+          467,
+          773
+        ],
+        [
+          814,
+          773
+        ],
+        [
+          818,
+          768
+        ]
+      ],
+      "content": "Second, because Lawrence Garfinkel, the statistical director of the American Cancer Society who is opposed to smoking, published a report covering 17 years and nearly 200,000 people in which he indicated that \"second-hand\" smoke has insignificant effect on lung cancer rates in nonsmokers.",
+      "native_label": "text"
+    },
+    {
+      "index": 6,
+      "label": "text",
+      "bbox_2d": [
+        466,
+        773,
+        811,
+        813
+      ],
+      "polygon": [
+        [
+          466,
+          773
+        ],
+        [
+          466,
+          812
+        ],
+        [
+          811,
+          812
+        ],
+        [
+          811,
+          773
+        ]
+      ],
+      "content": "For more information on this important public issue, write Scientific Division, The Tobacco Institute, 1875 I St., N.W., Washington, D.C. 20006.",
+      "native_label": "text"
+    },
+    {
+      "index": 7,
+      "label": "text",
+      "bbox_2d": [
+        151,
+        839,
+        776,
+        889
+      ],
+      "polygon": [
+        [
+          151,
+          839
+        ],
+        [
+          157,
+          888
+        ],
+        [
+          776,
+          888
+        ],
+        [
+          776,
+          839
+        ]
+      ],
+      "content": "BEFORE YOU BELIEVE HALF THE STORY GET THE WHOLE STORY.",
+      "native_label": "text"
+    }
+  ]
+]

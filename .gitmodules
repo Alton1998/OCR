@@ -1,0 +1,3 @@
+[submodule "glm-ocr"]
+	path = glm-ocr
+	url = https://github.com/zai-org/GLM-OCR.git

@@ -1,0 +1,6 @@
+pipeline:
+  maas:
+    enabled: false # Disable MaaS mode (default)
+  ocr_api:
+    api_host: "192.9.133.225" # or your vLLM/SGLang server address
+    api_port: 8080
